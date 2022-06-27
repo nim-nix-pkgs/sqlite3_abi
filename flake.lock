@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653702408,
-        "narHash": "sha256-xJcC+O+YaCUch1hxQKejl5y+9scDPj06dKiVnja83R8=",
+        "lastModified": 1656298112,
+        "narHash": "sha256-NzZnNLbqsfBjRy91XyQtaDj12ss7R+NPym5VebAyzOw=",
         "owner": "nim-nix-pkgs",
         "repo": "sqlite3_abi",
-        "rev": "2f51cea2178c97361afffe985d50cb9ade0dd5bb",
+        "rev": "c995c5584c70e17d9e368800ef14522977918e1c",
         "type": "github"
       },
       "original": {
